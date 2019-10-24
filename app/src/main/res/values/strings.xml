@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Khueh Chon Sean</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSMJK Jit Sin, Bukit Mertajam\n
+        \n\tSJKC Jit Sin, Bukit Mertajam\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \n\tLiverpool John Moores, UK\n
+        \nWorking Experiences\n
+        \n\tCat\n
+        \n\tDog\n
+        \n\tAnt\n
+        \n\tFly\n
+        \n\tBird\n
+        \n\tPanda\n
+    </string>
+</resources>
